@@ -41,11 +41,10 @@ Nail changes can be early signs of underlying health conditions. This project tr
 
 The model classifies images into four categories:
 
-1. [Class 1 name]
-2. [Class 2 name]
-3. [Class 3 name]
-4. [Class 4 name]
-
+1.Healthy – Normal, healthy nails.
+2.Acral Lentiginous Melanoma – A rare type of melanoma that can affect the nail unit.
+3.Clubbing – Abnormal enlargement and curvature of the fingertips and nails.
+4.Pitting – Small dents or depressions on the nail surface.
 ## Project Structure
 
 ```
