@@ -58,58 +58,5 @@ The model classifies images into four categories:
 └── README.md
 ```
 
-Edit this to match the files actually in your repository.
 
-## Getting Started
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/SuryaKumarHemanth/[repository-name].git
-cd [repository-name]
-```
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the web app
-
-```bash
-python app.py
-```
-
-Then open `http://127.0.0.1:5000` in your browser, upload a nail image and view the predicted category.
-
-## Screenshots
-
-Add screenshots here, for example:
-
-- Upload page
-- Prediction result
-- Accuracy / confusion matrix plot
-
-```markdown
-![Upload page](screenshots/upload.png)
-![Prediction result](screenshots/result.png)
-```
-
-## What I Learned
-
-- Building and comparing CNN, Hybrid Capsule CNN and transfer learning models
-- Handling a small medical image dataset with augmentation
-- Deploying a trained Keras model as a Flask web application
-
-## Future Improvements
-
-- Train on a larger and more varied dataset
-- Add model explainability (for example Grad-CAM) to show which part of the image drove the prediction
-- Containerise the app with Docker for easier deployment
-
-## Author
-
-**Surya Hemanth Kumar K**
-B.Tech Computer Science and Engineering, SRM Institute of Science and Technology
-[LinkedIn](https://www.linkedin.com/in/surya-hemanth-kumar-798722375/) | [GitHub](https://github.com/SuryaKumarHemanth)
