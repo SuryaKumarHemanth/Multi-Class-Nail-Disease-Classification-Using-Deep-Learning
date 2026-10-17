@@ -1,0 +1,5 @@
+{
+  "model": "MobileNetV2",
+  "test_accuracy": 90.2,
+  "test_loss": 0.4273
+}

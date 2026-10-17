@@ -1,0 +1,5 @@
+{
+  "model": "Hybrid Capsule CNN",
+  "test_accuracy": 86.68,
+  "test_loss": 0.1165
+}

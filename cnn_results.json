@@ -1,0 +1,5 @@
+{
+  "model": "CNN",
+  "test_accuracy": 76.13,
+  "test_loss": 0.6545
+}
